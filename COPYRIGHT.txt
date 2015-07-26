@@ -1,0 +1,26 @@
+The Timbre Space Mapping for VST Synthesizers (TSM4VSTS) is a
+collection of MAX patches and MATLAB functions.
+ 
+The TSM4VSTS can be obtained at http://stefanofasciani.com/tms4vsts.html
+TSM4VSTS Copyright (C) 2015 Stefano Fasciani, Nanyang Technological University
+Inquiries: stefanofasciani@stefanofasciani.com
+Website: http://stefanofasciani.com
+ 
+The TSM4VSTS is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+ 
+The TSM4VSTS is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Less General Public License for more details.
+ 
+You should have received a copy of the GNU Lesser General Public License
+along with TSM4VSTS.  If not, see <http://www.gnu.org/licenses/>.
+
+If you use the TSM4VSTS or any part of it in any program or publication,
+please acknowledge its authors by adding a reference to this pubblication:
+ 
+S. Fasciani, 2015, "Interactive computation of timbre spaces for sound synthesis control"
+in proceedings of the 2nd international symposium on Sound and Interactivity, Singapore.
